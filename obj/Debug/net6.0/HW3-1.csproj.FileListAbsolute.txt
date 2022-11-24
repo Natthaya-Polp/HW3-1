@@ -1,0 +1,15 @@
+D:\natty\files\2\2-CODE\HW3-1\obj\Debug\net6.0\HW3-1.csproj.AssemblyReference.cache
+D:\natty\files\2\2-CODE\HW3-1\obj\Debug\net6.0\HW3-1.GeneratedMSBuildEditorConfig.editorconfig
+D:\natty\files\2\2-CODE\HW3-1\obj\Debug\net6.0\HW3-1.AssemblyInfoInputs.cache
+D:\natty\files\2\2-CODE\HW3-1\obj\Debug\net6.0\HW3-1.AssemblyInfo.cs
+D:\natty\files\2\2-CODE\HW3-1\obj\Debug\net6.0\HW3-1.csproj.CoreCompileInputs.cache
+D:\natty\files\2\2-CODE\HW3-1\bin\Debug\net6.0\HW3-1.exe
+D:\natty\files\2\2-CODE\HW3-1\bin\Debug\net6.0\HW3-1.deps.json
+D:\natty\files\2\2-CODE\HW3-1\bin\Debug\net6.0\HW3-1.runtimeconfig.json
+D:\natty\files\2\2-CODE\HW3-1\bin\Debug\net6.0\HW3-1.dll
+D:\natty\files\2\2-CODE\HW3-1\bin\Debug\net6.0\HW3-1.pdb
+D:\natty\files\2\2-CODE\HW3-1\obj\Debug\net6.0\HW3-1.dll
+D:\natty\files\2\2-CODE\HW3-1\obj\Debug\net6.0\refint\HW3-1.dll
+D:\natty\files\2\2-CODE\HW3-1\obj\Debug\net6.0\HW3-1.pdb
+D:\natty\files\2\2-CODE\HW3-1\obj\Debug\net6.0\HW3-1.genruntimeconfig.cache
+D:\natty\files\2\2-CODE\HW3-1\obj\Debug\net6.0\ref\HW3-1.dll
